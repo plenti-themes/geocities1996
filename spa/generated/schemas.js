@@ -1,1 +1,1 @@
-const allSchemas={};export default allSchemas
+const allSchemas={pages:{url:{type:"text",options:["required"]},components:{type:"component",options:["banner","benefits","design_archives","design_selection","explanation","extras","footer","image","participation","preamble","requirements","resources","summary"]}}};export default allSchemas

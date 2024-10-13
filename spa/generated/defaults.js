@@ -1,1 +1,1 @@
-const allDefaults=[];export default allDefaults
+const allDefaults=[{pager:null,type:"pages",path:"/",filepath:"content/pages/_defaults.json",filename:"_defaults.json",fields:{url:"",components:[]}}];export default allDefaults
