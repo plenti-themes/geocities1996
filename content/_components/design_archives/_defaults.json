@@ -1,0 +1,20 @@
+{
+    "name": "design_archives",
+    "fields": {
+        "title": "Archives:",
+        "design_archives_links": [
+            {
+                "href":"https://csszengarden.com/129/page1",
+                "class": "next",
+                "title": "",
+                "text": "Next Designs ›"
+            },
+            {
+                "href":"https://csszengarden.com/pages/alldesigns/",
+                "class": "viewall",
+                "title": "View every submission to the Zen Garden.",
+                "text": "View All Designs"
+            }
+        ]
+    }
+}

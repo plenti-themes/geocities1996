@@ -1,0 +1,7 @@
+{
+    "name": "banner",
+    "fields": {
+        "title": "CSS Zen Garden",
+        "banner_desc": "The Beauty of <abbr title=\"Cascading Style Sheets\">CSS</abbr> Design"
+    }
+}

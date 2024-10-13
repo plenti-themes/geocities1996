@@ -1,0 +1,7 @@
+{
+    "name": "image",
+    "fields": {
+        "image": "media/geocitie.gif",
+        "alt": "GeoCities Cool Page of the Day"
+    }
+}

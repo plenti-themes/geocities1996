@@ -1,0 +1,104 @@
+{
+    "name": "design_selection",
+    "fields": {
+        "title": "Select a Design:",
+        "design_selection_links": [
+            {
+                "design": {
+                    "href":"https://csszengarden.com/221/",
+                    "class": "design-name",
+                    "name": "Mid Century Modern"
+                },
+                "designer": {
+                    "href":"http://andrewlohman.com/",
+                    "class": "designer-name",
+                    "name": "Andrew Lohman"
+                }
+            },
+            {
+                "design": {
+                    "href":"https://csszengarden.com/220/",
+                    "class": "design-name",
+                    "name": "Garments"
+                },
+                "designer": {
+                    "href":"http://danielmall.com/",
+                    "class": "designer-name",
+                    "name": "Dan Mall"
+                }
+            },
+            {
+                "design": {
+                    "href":"https://csszengarden.com/219/",
+                    "class": "design-name",
+                    "name": "Steel"
+                },
+                "designer": {
+                    "href":"http://steffen-knoeller.de",
+                    "class": "designer-name",
+                    "name": "Steffen Knoeller"
+                }
+            },
+            {
+                "design": {
+                    "href":"https://csszengarden.com/218/",
+                    "class": "design-name",
+                    "name": "Apothecary"
+                },
+                "designer": {
+                    "href":"http://trentwalton.com",
+                    "class": "designer-name",
+                    "name": "Trent Walton"
+                }
+            },
+            {
+                "design": {
+                    "href":"https://csszengarden.com/217/",
+                    "class": "design-name",
+                    "name": "Screen Filler"
+                },
+                "designer": {
+                    "href":"http://elliotjaystocks.com/",
+                    "class": "designer-name",
+                    "name": "Elliot Jay Stocks"
+                }
+            },
+            {
+                "design": {
+                    "href":"https://csszengarden.com/216/",
+                    "class": "design-name",
+                    "name": "Fountain Kiss"
+                },
+                "designer": {
+                    "href":"http://jeremycarlson.com",
+                    "class": "designer-name",
+                    "name": "Jeremy Carlson"
+                }
+            },
+            {
+                "design": {
+                    "href":"https://csszengarden.com/215/",
+                    "class": "design-name",
+                    "name": "A Robot Named Jimmy"
+                },
+                "designer": {
+                    "href":"http://meltmedia.com/",
+                    "class": "designer-name",
+                    "name": "meltmedia"
+                }
+            },
+            {
+                "design": {
+                    "href":"https://csszengarden.com/214/",
+                    "class": "design-name",
+                    "name": "Verde Moderna"
+                },
+                "designer": {
+                    "href":"http://www.mezzoblue.com/",
+                    "class": "designer-name",
+                    "name": "Dave Shea"
+                }
+            }
+        ]
+    }
+}

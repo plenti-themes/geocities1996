@@ -1,0 +1,38 @@
+{
+    "name": "resources",
+    "fields": {
+        "title": "Resources:",
+        "resources_links": [
+            {
+                "href":"https://csszengarden.com/129/129.css",
+                "class": "view-css",
+                "title": "View the source CSS file of the currently-viewed design.",
+                "text": "View This Design’s <abbr title=\"Cascading Style Sheets\">CSS</abbr>"
+            },
+            {
+                "href":"https://csszengarden.com/pages/resources/",
+                "class": "css-resources",
+                "title": "Links to great sites with information on using CSS.",
+                "text": "<abbr title=\"Cascading Style Sheets\">CSS</abbr> Resources"
+            },
+            {
+                "href":"https://csszengarden.com/pages/faq/",
+                "class": "zen-faq",
+                "title": "A list of Frequently Asked Questions about the Zen Garden.",
+                "text": "<abbr title=\"Frequently Asked Questions\">FAQ</abbr>"
+            },
+            {
+                "href":"https://csszengarden.com/pages/submit/",
+                "class": "zen-submit",
+                "title": "Send in your own CSS file.",
+                "text": "Submit a Design"
+            },
+            {
+                "href":"https://csszengarden.com/pages/translations/",
+                "class": "zen-translations",
+                "title": "View translated versions of this page.",
+                "text": "Translations"
+            }
+        ]
+    }
+}
