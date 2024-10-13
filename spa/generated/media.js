@@ -1,0 +1,1 @@
+let allMedia=["media/logo.svg"];export default allMedia
