@@ -1,5 +1,5 @@
 <script>
-	export let components;
+	export let components, allLayouts;
 </script>
 
 <div class="page-wrapper">
