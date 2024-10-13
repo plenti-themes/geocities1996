@@ -1,1 +1,1 @@
-export let env={local:!1,baseurl:"/geocities1996/",routes:{pages:"/:fields(url)"},types:["pages"],singleTypes:[],fingerprint:"eFwzgITBrG",entrypointHTML:"global/html.svelte",entrypointJS:"spa",cms:{repo:"",redirectUrl:"",appId:"",branch:""}}
+export let env={local:!1,baseurl:"/geocities1996/",routes:{pages:"/:fields(url)"},types:["pages"],singleTypes:[],fingerprint:"XifAPRacex",entrypointHTML:"global/html.svelte",entrypointJS:"spa",cms:{repo:"",redirectUrl:"",appId:"",branch:""}}

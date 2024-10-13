@@ -1,1 +1,1 @@
-let allMedia=["media/geocitie.gif","media/logo.svg"];export default allMedia
+let allMedia=["media/geocitie.gif","media/logo.svg","media/spinning.gif"];export default allMedia
