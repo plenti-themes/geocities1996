@@ -3,7 +3,9 @@
 </script>
 
 <div class="design-selection" id="design-selection">
-    <h3 class="select">{title}</h3>
+    {#if title}
+        <h3 class="select">{title}</h3>
+    {/if}
     <nav role="navigation">
         <ul>
             {#each design_selection_links as link}
