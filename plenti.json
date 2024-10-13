@@ -3,6 +3,7 @@
 	"local": {
 		"port": 3000
 	},
+	"baseurl": "/geocities1996/",
 	"routes": {
 		"pages": "/:fields(url)"
 	}
