@@ -1,9 +1,14 @@
 <script>
-    export let title, resources_links;
+    export let heading, resources_links;
 </script>
 
 <div class="zen-resources" id="zen-resources">
-    <h3 class="resources">{title}</h3>
+    <div 
+        style="background: url('{heading.gif}') 50% center no-repeat;"
+        class="resources-title"
+    >
+            {heading.title}
+    </div>
     <ul>
         {#each resources_links as link}
             <li class="{link.class}">
@@ -14,3 +19,14 @@
         {/each}
     </ul>
 </div>
+
+<style>
+    .resources-title {
+        min-height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #ff009c;
+        font-size: 1.5rem;
+    }
+</style>

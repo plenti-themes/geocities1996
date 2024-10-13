@@ -216,7 +216,10 @@
         {
             "name": "resources",
             "fields": {
-                "title": "Resources:",
+                "heading": {
+                    "title": "CSS Resources",
+                    "gif": "media/spinning.gif"
+                },
                 "resources_links": [
                     {
                         "href":"https://csszengarden.com/129/129.css",
